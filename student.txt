@@ -1,0 +1,3 @@
+Name: Sneha
+Age:21
+CITY:KOP
